@@ -1,6 +1,13 @@
 # Description of the Project
 
-The "Breast Cancer Dataset" is used in this project. It has df.shape=(569, 31) which means 569 rows and 32 columns.  + The link of the datset used  in this project is  -https://www.kaggle.com/uciml/breast-cancer-wisconsin-data + I am importing the important python packages- skelarn, pandas, numpy, seaborn and matplotlib to complete the project. + The machine learning models such as  Logistic Regression, Decision Tree, Random Forest, XGBoost, AdaBoost and Gradient Boosting classifier have been used. + The performance of the  machine learnig models have been tested on the basis of accuracy score, confusion matrix, classification report, f1 score and roc auc score. + I had tuned hyperparameters  to improve the perforamnce for XGBoost model  + The good visualization is also important along with accuracy score in model building. The performance of the model have been  visualized in this project. 
+The "Breast Cancer Dataset" is used in this project. It has df.shape=(569, 31) which means 569 rows and 32 columns.  
+
+    + The link of the datset used  in this project is  -https://www.kaggle.com/uciml/breast-cancer-wisconsin-data 
+    + I am importing the important python packages- skelarn, pandas, numpy, seaborn and matplotlib to complete the project.
+    + The machine learning models such as  Logistic Regression, Decision Tree, Random Forest, XGBoost, AdaBoost and Gradient Boosting classifier have been used. 
+    + The performance of the  machine learnig models have been tested on the basis of accuracy score, confusion matrix, classification report, f1 score and roc auc score.
+     
+I had tuned hyperparameters  to improve the perforamnce for XGBoost model. The good visualization is also important along with accuracy score in model building. The performance of the model have been  visualized in this project. 
 
 # Problem statement
 
