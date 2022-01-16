@@ -2,17 +2,17 @@
 
 The "Breast Cancer Dataset" is used in this project. It has df.shape=(569, 31) which means 569 rows and 32 columns.  
 
-    + The link of the datset used  in this project is  -https://www.kaggle.com/uciml/breast-cancer-wisconsin-data 
-    + I am importing the important python packages- skelarn, pandas, numpy, seaborn and matplotlib to complete the project.
-    + The machine learning models such as  Logistic Regression, Decision Tree, Random Forest, XGBoost, AdaBoost and Gradient Boosting classifier have been used. 
-    + The performance of the  machine learnig models have been tested on the basis of accuracy score, confusion matrix, classification report, f1 score and roc auc score.
+     1. The link of the datset used  in this project is  -https://www.kaggle.com/uciml/breast-cancer-wisconsin-data 
+     2. I am importing the important python packages- skelarn, pandas, numpy, seaborn and matplotlib to complete the project.
+     3. The machine learning models such as  Logistic Regression, Decision Tree, Random Forest, XGBoost, AdaBoost and Gradient Boosting classifier have been used. 
+     4. The performance of the  machine learnig models have been tested on the basis of accuracy score, confusion matrix, classification report, f1 score and roc auc score.
      
 I had tuned hyperparameters  to improve the perforamnce for XGBoost model. The good visualization is also important along with accuracy score in model building. The performance of the model have been  visualized in this project. 
 
 # Problem statement
 
-The full form of XGBoost is eXtreme Gradient Boosting, also called winner for several kaggle competetion machine learning model.
-Most of the literatues of Machine Learning found in google has described this model as having best accuracy, efficient and feasibility.
+     --> The full form of XGBoost is eXtreme Gradient Boosting, also called winner for several kaggle competetion machine learning model.
+     --> Most of the literatues of Machine Learning found in google has described this model as having best accuracy, efficient and feasibility.
 
 It is a decision-tree-based ensemble ML algorithm based on gradient boosting framework. It is considered that XGBoost provides a convenient way of cross-validation.             Cross-validation technique is applied to test the model's overfitting during the training phase. If the model gives good accuracy in training dataset but the model               works very poor in testing unseen dataset then it is called overfitting or a model of low bias and high variance. I have to calculate the model training and testing             errors with different learning rates.As we know that the best technique to choose the learning rate value is between 0 and 1. 
 
